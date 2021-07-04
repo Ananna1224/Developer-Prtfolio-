@@ -1,0 +1,40 @@
+BODY{
+    font-family: 'Lobster', cursive;
+    margin: 0;
+}
+h1{
+    font-size: 45px;
+}
+.name-color{
+     color:indigo;
+}
+
+.clr{
+    color: lawngreen;
+}
+.colr{
+    color: gold;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 2%;
+}
+.half-width img{
+
+    width: 94%;
+}
+.link-button{
+    text-decoration: none;
+    color:indigo;
+    font-weight: 700;
+    background-image:linear-gradient(hotpink , gold);
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
